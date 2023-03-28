@@ -1,0 +1,26 @@
+job_portal/
+│
+├── controllers/
+│   ├── studentController.js
+│   ├── employerController.js
+│   └── placementOfficerController.js
+│
+├── models/
+│   ├── user.js
+│   ├── job.js
+│   └── application.js
+│
+├── routes/
+│   ├── studentRoutes.js
+│   ├── employerRoutes.js
+│   └── placementOfficerRoutes.js
+│
+├── middleware/
+│   └── auth.js
+│
+├── utils/
+│   └── database.js
+│
+├── package.json
+│
+└── server.js
